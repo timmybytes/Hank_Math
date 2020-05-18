@@ -41,7 +41,7 @@ def logo():
 ██╔══██║██╔══██║██║╚██╗██║██╔═██╗     ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║╚═╝
 ██║  ██║██║  ██║██║ ╚████║██║  ██╗    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
-  Answer the math problems. Press Enter to continue. Type 'q' to quit.
+  Answer the math problems. Press 'Enter' to continue. Type 'q' to quit.
 	""")
 
 # Function to center passed variables; used for positioning
