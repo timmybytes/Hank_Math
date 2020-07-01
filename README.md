@@ -15,5 +15,5 @@ Incorrect answer
 Results
 ![Results](screenshots/hank_math4.png)
 
-Score tracking - Hank Math creates/appends a separate .txt file with timestamp and totals of most recent playthrough.
+Score tracking - **Hank Math** creates/appends a separate .txt file with timestamp and totals of most recent playthrough.
 ![Scores](screenshots/hank_math5.png)

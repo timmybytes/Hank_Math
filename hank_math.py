@@ -4,14 +4,9 @@
 # A simple program for practicing math problems. Displays addition
 # and subtraction problems, tracks results, and exports scores to 
 # separate file for score-keeping.
-#
-# To do:
-# * Use class instances to generate tabulate-style table with final
-# results
 # --------------------------------------------------------------------
 
 import random, os, datetime, platform
-from tabulate import tabulate
 
 # Global score-keeping variables
 RIGHT_ANSWERS = 0
@@ -177,7 +172,5 @@ def main():
 
 	export_final_results()
 	final_results()
-
-	# print(tabulate(score_list, headers=["Number", "Number", "User", "Correct"], numalign="right", showindex=False, tablefmt="presto"))
 
 main()
